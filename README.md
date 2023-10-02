@@ -1,5 +1,5 @@
-# examination-application
-this is an online based examination application
+# Examination-Application
+This is an online based examination application
 
 
 #Versions of online examination system
